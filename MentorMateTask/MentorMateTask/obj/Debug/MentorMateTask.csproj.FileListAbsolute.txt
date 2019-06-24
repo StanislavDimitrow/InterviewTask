@@ -1,0 +1,8 @@
+D:\Programs\MentorMateTask\MentorMateTask\bin\Debug\MentorMateTask.exe.config
+D:\Programs\MentorMateTask\MentorMateTask\bin\Debug\MentorMateTask.exe
+D:\Programs\MentorMateTask\MentorMateTask\bin\Debug\MentorMateTask.pdb
+D:\Programs\MentorMateTask\MentorMateTask\bin\Debug\Newtonsoft.Json.dll
+D:\Programs\MentorMateTask\MentorMateTask\bin\Debug\Newtonsoft.Json.xml
+D:\Programs\MentorMateTask\MentorMateTask\obj\Debug\MentorMateTask.csprojResolveAssemblyReference.cache
+D:\Programs\MentorMateTask\MentorMateTask\obj\Debug\MentorMateTask.exe
+D:\Programs\MentorMateTask\MentorMateTask\obj\Debug\MentorMateTask.pdb
